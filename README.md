@@ -2,7 +2,7 @@
 
 ## Uso
 
-Para ejecutar el proyecto en modo desarrollo, abre la consola en la raíz del proyecto y ejecuta:
+Para ejecutar el proyecto, abre la consola en la raíz del proyecto y ejecuta:
 
 ```
 npm run dev
